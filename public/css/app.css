@@ -1,0 +1,10 @@
+.movies-list {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.card {
+  max-width: 300px;
+}
+
